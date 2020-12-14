@@ -58,7 +58,7 @@ Le test des composants se fait à l’aide de l’outil storybook. Chaque compos
 La partie backend a été réalisée à l'aide de Node.js, ExpressJS et MongoDB.
 Il s'agit donc d'une application MERN.
 
-La base de données est composé de 4 documents :
+La base de données est composée de 4 collections :
 - vente2 (ventes réalisées)
 - type2 (type de bougies vendues)
 - parvs (stock de parfums)
@@ -100,14 +100,15 @@ yarn storybook
 
 En résumé :
 
-cd frontend/
-npm install
-cd
-cd backend/
-npm install
-cd
-npm install
-npm start
+- cd frontend/
+- npm install
+- cd
+- cd backend/
+- npm install
+- cd
+- npm install
+- npm start
+- pseudo aure ou juju
 
  
 ## Auteurs
